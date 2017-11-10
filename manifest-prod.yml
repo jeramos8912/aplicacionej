@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: app-produccion-ne
-  host: app-produccion-ne
+  name: app-produccion
+  host: app-produccion
   disk_quota: 256M
